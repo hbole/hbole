@@ -1,5 +1,4 @@
-### Hi there 👋
-I am Harshit
+### Hi there 👋, I am Harshir
 
 <!--
 **hbole/hbole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

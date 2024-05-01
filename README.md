@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I am Harshit. I am a Senior Software Engineer @ Vyapar**
+### I am Harshit. I am a Senior Software Engineer @ Vyapar
 <!--
 **hbole/hbole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
